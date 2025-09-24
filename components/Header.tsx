@@ -58,7 +58,7 @@ export function Header() {
                 <Moon className="w-5 h-5 text-foreground" />
               )}
             </button>
-            <a href="https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <a href="deh-admin-dashboard-mawlid1431s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
               <Button 
                 variant="outline" 
                 className="border-foreground text-foreground hover:bg-foreground hover:text-background transition-all duration-300 hover:shadow-lg"
