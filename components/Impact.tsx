@@ -157,7 +157,7 @@ export function Impact() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://deh-admin-dashboard-64jnjo44j-mawlid1431s-projects.vercel.app/"
+              href="https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-black transition-all duration-300 px-8 py-3 rounded-lg inline-block"
