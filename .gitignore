@@ -6,10 +6,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Production builds
-dist/
-build/
-out/
+# Production builds (commented out for Vercel deployment)
+# dist/
+# build/
+# out/
 
 # Runtime data
 pids
