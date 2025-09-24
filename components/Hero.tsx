@@ -39,7 +39,7 @@ export function Hero() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/" 
+              href="https://deh-admin-dashboard-64jnjo44j-mawlid1431s-projects.vercel.app/" 
               target="_blank" 
               rel="noopener noreferrer"
               aria-label="Join the Digital Empowerment Hub community"
