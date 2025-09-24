@@ -22,7 +22,7 @@ export function Footer() {
     ],
     'Connect': [
       { name: 'Contact Us', href: '#contact' },
-      { name: 'Join Us', href: '#contact' },
+      { name: 'Join Us', href: 'https://deh-admin-dashboard-mawlid1431s-projects.vercel.app/' },
       { name: 'Media Kit', href: '#media' },
       { name: 'Newsletter', href: '#newsletter' }
     ]
