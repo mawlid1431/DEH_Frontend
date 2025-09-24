@@ -164,7 +164,7 @@ export function Impact() {
             >
               JOIN US NOW
             </a>
-            <button>
+            <button className=''>
               <a
                 href="https://drive.google.com/file/d/1da9kEm24l82mGP2jrH62vuergkAAokLl/view?usp=sharing"
                 target="_blank"
